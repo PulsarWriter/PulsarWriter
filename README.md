@@ -17,6 +17,17 @@
   <sub><b>@Pulsar-Programmer</b> — amazing open-source dev 🚀 🦀</sub>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Pulsar-Programmer">
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Pulsar-Programmer&theme=journey&pixelate_avatar=false&include_all_commits=true&color=black" />
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=PulsarWriter&theme=journey&pixelate_avatar=false&include_all_commits=true&color=black" />
+  </a>
+</p>
 
 <p align="center">
   </br>
