@@ -25,7 +25,7 @@
 
 <p align="center">
   <a>
-    <img src="https://pixel-profile.vercel.app/api/github-stats?username=PulsarWriter&theme=journey&pixelate_avatar=false&include_all_commits=true&color=black" />
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=PulsarWriter&theme=summer&pixelate_avatar=false&include_all_commits=true&color=black" />
   </a>
 </p>
 
